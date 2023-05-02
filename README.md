@@ -2,7 +2,7 @@
 
 This is a simple simulation I made using Python. I made this at school with an online IDE so it will not be that good.
 
-HOW TO RUN: Copy and paste the code into one of these websites and click the run button
+HOW TO RUN: Copy and paste the code in game.py into one of these websites and click the run button
 
 WEBSITES
 ____________
